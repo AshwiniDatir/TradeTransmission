@@ -14,7 +14,7 @@
   
 
 
-  First Header  | Second Header| Second Header| Second Header| Second Header| Second Header| Second Header
+  Trade Id  | version| Counter-Party Id| Book-Id| Maturity Date| Created Date| Expired
 ------------- | -------------| -------------| -------------| -------------| -------------| -------------
 Tl  | 1| CP-1| B1| 20/05/2020| <today date>| N
 T2  | 2| CP-2| B1| 20/05/2021| <today date>| N
